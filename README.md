@@ -1,1 +1,1 @@
-<h2> ----- :: Recipes Management System :: ----- </h2>
+<h2 style="color: yellow;"> ----- :: Recipes Management System :: ----- </h2>
